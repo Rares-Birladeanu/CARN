@@ -23,4 +23,4 @@
 8. [Version 6](https://github.com/Rares-Birladeanu/CARN/blob/main/Tema_2/Version%206/Version%206.ipynb)
    - Added some image transforamtion : Random Rotation +- 15 and Random Horizontal Flip.
 
-All the Configurations have been made starting from the baselin in a sequential order ( Version 2 is The same as Version 1 the only difference being the changes mentioned). 
+All the Configurations have been made starting from the baselin in a sequential order ( Version 2 is The same as Version 1 the only difference being the changes mentioned). The score on Kaggle has been achived with configuration 5. The score of 65.17% from Kaggle is the best one and the score 63.85% (the one from the table) is the last local run.
